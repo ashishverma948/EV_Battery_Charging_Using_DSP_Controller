@@ -1,0 +1,1 @@
+The goal of this project is to design and implement a smart EV battery charging system using a Digital Signal Processor (DSP) controller. The DSP ensures efficient, safe, and fast charging of an electric vehicle (EV) battery while implementing advanced features like monitoring, phase control, and adaptive charging algorithms.
